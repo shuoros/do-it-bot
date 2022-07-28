@@ -5,6 +5,7 @@ HELP.md
 target/
 !**/src/main/**/target/
 !**/src/test/**/target/
+/src/main/resources/application-robot.properties
 
 ### STS ###
 .apt_generated
